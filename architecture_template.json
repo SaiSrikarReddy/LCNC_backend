@@ -1,0 +1,67 @@
+{
+  "Frontend language": "JavaScript",
+  "Frontend framework": "React",
+  "Frontend UI library": "Mantine",
+  "Theme colors": "UI library default",
+  "App name": "",
+  "App optimized for": "Desktop",
+  "App common components": {
+    "Header": {
+      "Brand logo image name": "Brand.jpg",
+      "Header links": {
+        "link_1_name_placeholder": {
+          "Link URL": "",
+          "Link is a dropdown": false,
+          "Link dropdown sublinks": {}
+        },
+        "link_2_name_placeholder": {
+          "Link URL": "",
+          "Link is a dropdown": false,
+          "Link dropdown sublinks": {}
+        }
+      },
+      "Display user profile link in header": true
+    },
+    "Footer": {
+      "Footer links": {
+        "link_1_name_placeholder": "/link_1_url_placeholder",
+        "link_2_name_placeholder": "/link_2_url_placeholder"
+      }
+    },
+    "Navbar left": {
+      "Navbar links": {
+        "link_1_name_placeholder": {
+          "Link URL": "",
+          "Link is a dropdown": false,
+          "Link dropdown sublinks": {}
+        },
+        "link_2_name_placeholder": {
+          "Link URL": "",
+          "Link is a dropdown": false,
+          "Link dropdown sublinks": {}
+        }
+      },
+      "Display user profile link in navbar": true
+    }
+  },
+  "App pages": {
+    "page 1 name": {
+      "route": "str",
+      "functionality description": "str",
+      "page architecture": {
+        "page container div": {
+          "components grid": {
+            "component 1 name": {
+              "component type": "str",
+              "component function": "str"
+            },
+            "component 2 name": {
+              "component type": "str",
+              "component function": "str"
+            }
+          }
+        }
+      }
+    }
+  }
+}

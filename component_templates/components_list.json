@@ -1,0 +1,7 @@
+{
+    "simple_header": "Simple header with logo and links.",
+    "simple_footer": "Simple footer with logo and links.",
+    "Header_UserTabs": "Header with user account management dropdown, logo, and tabs.",
+    "Card_component": "A display card with image, title, Description and stats.",
+    "Login_page_component": "A fully complete login page component with Welcome message, email/password input, login button, and image."
+}
